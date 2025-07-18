@@ -403,7 +403,7 @@ export default function Index() {
             <div>
               <div className="mb-4">
                 <img 
-                  src="https://cdn.poehali.dev/files/b1467ce3-be22-42e9-888b-bec41b60b84f.jpg" 
+                  src="https://cdn.poehali.dev/files/dd3ec2a8-be3e-4320-86d3-ba24a2db0e48.jpg" 
                   alt="РУСАВТО - Логистика без риска" 
                   className="h-8 w-auto object-contain filter brightness-0 invert"
                 />
