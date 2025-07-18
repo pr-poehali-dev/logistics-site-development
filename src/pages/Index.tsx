@@ -440,7 +440,7 @@ export default function Index() {
           </div>
           
           <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 LogisticsPro. Все права защищены.</p>
+            <p>© 2025 RUSAVTO. Все права защищены.</p>
           </div>
         </div>
       </footer>
