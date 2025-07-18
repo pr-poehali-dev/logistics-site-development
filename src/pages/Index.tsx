@@ -62,8 +62,8 @@ export default function Index() {
                 <Icon name="Truck" className="text-white" size={24} />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-logistics-dark font-inter">LogisticsPro</h1>
-                <p className="text-sm text-gray-600">Ваш надёжный партнёр в логистике</p>
+                <h1 className="text-2xl font-bold text-logistics-dark font-inter">РУСАВТО</h1>
+                <p className="text-sm text-gray-600">Логистика без риска</p>
               </div>
             </div>
             <nav className="hidden md:flex space-x-8">
