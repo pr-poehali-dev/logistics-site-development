@@ -57,14 +57,12 @@ export default function Index() {
       <header className="bg-white shadow-sm border-b">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center py-4">
-            <div className="flex items-center space-x-3">
-              <div className="w-10 h-10 bg-gradient-to-r from-logistics-primary to-logistics-secondary rounded-lg flex items-center justify-center">
-                <Icon name="Truck" className="text-white" size={24} />
-              </div>
-              <div>
-                <h1 className="text-2xl font-bold text-logistics-dark font-inter">РУСАВТО</h1>
-                <p className="text-sm text-gray-600">Логистика без риска</p>
-              </div>
+            <div className="flex items-center">
+              <img 
+                src="https://cdn.poehali.dev/files/b1467ce3-be22-42e9-888b-bec41b60b84f.jpg" 
+                alt="РУСАВТО - Логистика без риска" 
+                className="h-12 w-auto object-contain"
+              />
             </div>
             <nav className="hidden md:flex space-x-8">
               <a href="#services" className="text-logistics-dark hover:text-logistics-primary transition-colors">Услуги</a>
@@ -403,11 +401,12 @@ export default function Index() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-4 gap-8">
             <div>
-              <div className="flex items-center space-x-3 mb-4">
-                <div className="w-8 h-8 bg-gradient-to-r from-logistics-primary to-logistics-secondary rounded-lg flex items-center justify-center">
-                  <Icon name="Truck" className="text-white" size={20} />
-                </div>
-                <h4 className="text-xl font-bold">LogisticsPro</h4>
+              <div className="mb-4">
+                <img 
+                  src="https://cdn.poehali.dev/files/b1467ce3-be22-42e9-888b-bec41b60b84f.jpg" 
+                  alt="РУСАВТО - Логистика без риска" 
+                  className="h-8 w-auto object-contain filter brightness-0 invert"
+                />
               </div>
               <p className="text-gray-400">Надёжная логистика для вашего бизнеса</p>
             </div>
