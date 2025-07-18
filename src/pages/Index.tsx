@@ -366,7 +366,7 @@ export default function Index() {
                   <Icon name="Phone" className="text-logistics-primary" size={24} />
                 </div>
                 <h4 className="font-semibold mb-2">Телефон</h4>
-                <p className="text-gray-600">+7 (495) 123-45-67</p>
+                <p className="text-gray-600">+7 (927) 002-86-71</p>
                 <p className="text-sm text-gray-500">Круглосуточно</p>
               </CardContent>
             </Card>
@@ -377,7 +377,7 @@ export default function Index() {
                   <Icon name="Mail" className="text-logistics-primary" size={24} />
                 </div>
                 <h4 className="font-semibold mb-2">Email</h4>
-                <p className="text-gray-600">info@logisticspro.ru</p>
+                <p className="text-gray-600">clo@rusavto.com</p>
                 <p className="text-sm text-gray-500">Ответим в течение часа</p>
               </CardContent>
             </Card>
@@ -388,8 +388,8 @@ export default function Index() {
                   <Icon name="MapPin" className="text-logistics-primary" size={24} />
                 </div>
                 <h4 className="font-semibold mb-2">Адрес</h4>
-                <p className="text-gray-600">Москва, ул. Логистическая, 15</p>
-                <p className="text-sm text-gray-500">Офис и склад</p>
+                <p className="text-gray-600">445012, Самарская область, г. о. Тольятти, ул. Коммунистическая, д. 99, помещ. 1001</p>
+                <p className="text-sm text-gray-500">Офис</p>
               </CardContent>
             </Card>
           </div>
@@ -432,9 +432,9 @@ export default function Index() {
             <div>
               <h5 className="font-semibold mb-4">Контакты</h5>
               <div className="space-y-2 text-gray-400">
-                <p>+7 (495) 123-45-67</p>
-                <p>info@logisticspro.ru</p>
-                <p>Москва, ул. Логистическая, 15</p>
+                <p>+7 (927) 002-86-71</p>
+                <p>clo@rusavto.com</p>
+                <p>445012, Самарская область, г. о. Тольятти, ул. Коммунистическая, д. 99, помещ. 1001</p>
               </div>
             </div>
           </div>
